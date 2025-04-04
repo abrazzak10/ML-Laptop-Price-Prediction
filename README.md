@@ -1,5 +1,5 @@
 # Laptop Price Prediction 
-This is a Machine Learning project focused on predicting Laptop prices. The goal is to find the answer of the following questions answer. 
+This is a Machine Learning project focused on predicting Laptop prices. The goal is to find the answer of the following questions. 
 a. Identify the top 5 laptop brands by the number of products listed.
 b. Find the average price of laptops for each brand. Identify which brand has the highest and lowest average price.
 c. Present the correlation between Price_euros and other numeric features such as CPU_freq, Ram, Inches, and Weight. Identify which features are most correlated with price.
