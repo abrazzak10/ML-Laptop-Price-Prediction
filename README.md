@@ -7,10 +7,10 @@ This is a Machine Learning project focused on predicting laptop prices and explo
 3. Identify the highest and lowest average priced brands.
 ### Feature Correlation:
 4. Analyze the correlation between Price_euros and numeric features like:
--CPU_freq
--Ram
--Inches
--Weight
+   - CPU frequency (`CPU_freq`)
+   - RAM
+   - Screen size (`Inches`)
+   - Weight
 5. Identify which features are most correlated with price.
 
 ## Feature Engineering
