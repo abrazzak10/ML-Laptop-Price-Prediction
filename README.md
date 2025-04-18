@@ -18,11 +18,11 @@ This is a Machine Learning project focused on predicting laptop prices and explo
    -StorageTotal = PrimaryStorage + SecondaryStorage
 ### Regression Modeling:
 7. Build regression models using features like:
--Ram
--Inches
--CPU_freq
--PrimaryStorage
--GPU_company
+- RAM
+- Inches
+- CPU frequency
+- Primary Storage
+- GPU company
 8. Predict Price_euros and suggest the best regression model based on performance.
 ## Classification Modeling:
 9. Create a classification model to predict the laptop type (TypeName) based on:
