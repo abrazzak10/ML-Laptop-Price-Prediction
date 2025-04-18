@@ -14,7 +14,8 @@ This is a Machine Learning project focused on predicting laptop prices and explo
 5. Identify which features are most correlated with price.
 
 ## Feature Engineering
-6. Create a new feature: StorageTotal = PrimaryStorage + SecondaryStorage.
+6. Create a new feature:
+   -StorageTotal = PrimaryStorage + SecondaryStorage
 ### Regression Modeling:
 7. Build regression models using features like:
 -Ram
